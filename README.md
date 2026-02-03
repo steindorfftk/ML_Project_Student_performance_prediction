@@ -13,6 +13,7 @@ More than achieving a competitive leaderboard position, this project focuses on 
 - **Dataset**: Synthetic
   - ~630,000 training samples
   - ~270,000 test samples
+  - 10 features
 - **Evaluation metric**: RMSE
 
 ---
